@@ -2,7 +2,7 @@
 title:               Aoshen
 tagline:             Exploring analtyics.
 description:         Heya 👋
-url:                 https://aoshenz.github.io/
+url:                 https://aoshenz.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,8 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Aoshen
-  url:               https://aoshenz.github.io/
-  email:             lol@gmail.com
+  url:               https://aoshenz.github.io
+  email:             https://aoshenz.github.io
 
 # Gems
 plugins:
